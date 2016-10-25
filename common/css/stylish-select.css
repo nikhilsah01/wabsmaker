@@ -1,0 +1,8 @@
+/*country*/
+.stylish-select .enquiry .SSContainerDivWrapper {margin:0;padding:0;width:99.7%;position:absolute;top:31px !important;left:-1px!important;z-index:99999; background: #ccc; border: 1px solid #d8dee1}
+.stylish-select .enquiry ul.newList {margin:0px 0 0 0;padding:0;list-style:none;color:#757575;background:#ccc;overflow: visible;;z-index:99;border: 1px solid #d8dee1; float: left; width:100%}
+.stylish-select .enquiry ul.newList * {margin:0;padding:0;background:#fdfbfb;width:100%;z-index:99;}
+.stylish-select .enquiry ul.newList a {color: #999;text-decoration:none;display:block;padding:3px 2%;font:13px/25px arial; width:96%;z-index:99;}
+.stylish-select .enquiry .newListSelected {width:99.5%;color:#757575;height: 27px;padding: 0 0 6px 0;float:left;background:#fdffff url(../images/select-arrow.png) no-repeat  97% 6px; border:1px solid #b9b9b9; }
+.stylish-select .enquiry .selectedTxt {width:99%;overflow:hidden;height:33px;padding:5px 0 0 5px; color: #999;font:13px/25px arial;; cursor: pointer;}
+.stylish-select .enquiry ul.newList a:hover {background:#d2d2d2}

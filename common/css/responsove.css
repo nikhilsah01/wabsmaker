@@ -1,0 +1,54 @@
+@media only screen and (max-width: 1057px) {
+
+
+}
+
+
+@media only screen and (max-width: 992px) {  
+    .layout {width:100%}
+    .call_blog li .search input[type="text"] {width:114px}
+    .menu ul li {  padding: 0 5px;}
+    .menu ul li.last { padding: 0 6px;}
+    .banner_heading h2 {font-size: 28px}
+    .left_banner { width: 480px;margin: 0 0 0 35px;}
+    .development { padding: 129px 0 0 20px; width: 214px; float: left;}
+    .bx-next,.bx-prev {background-size:100%;height: 41px;width: 31px;}
+    .printer_blog {width: 518px}
+    .printer_blog h3 { font-size: 17px}
+    .printer_blog p {font-size: 12px}
+    .request_link { padding: 7px 11px; font-size:17px}
+    .customer_blog h3 {font-size: 21px; padding:0; display: block; text-align: center;}
+    .col_1 {margin:0; width: 185px} 
+    .icon {width:100px}
+    .col_1 h4 {font-size:15px}
+    .softwere_link li {background-position:0 8px; padding: 0 0 4px 13px}
+    .softwere_link li a { font-size:11px}
+    .expertise_blog { width: 520px}
+    .expertise_blog p {font-size: 10px; line-height: 18px}
+    .blog { padding: 0 23px 0 0}
+    .client_blog { width: 230px}
+    .client_blog p {font-size:10px}
+
+
+}
+
+
+@media only screen and (max-width: 767px) {
+
+	.right_header { width:100%; float: left;}
+	.rmm {display: block!important;}
+	nav {display: none;}
+
+
+
+
+
+
+   
+}
+
+@media only screen and (max-width: 479px){
+
+
+
+}
